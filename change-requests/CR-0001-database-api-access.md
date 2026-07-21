@@ -11,7 +11,7 @@ The workspace chatbot's retrieval source was expanded to pull from a more curren
 
 ## 2. Type of Change
 - [ ] Model / version change
-- [ ] Prompt change
+- [x] Prompt change
 - [x] Data source / retrieval change
 - [x] API / tool / MCP integration change
 - [ ] Agent permission change
