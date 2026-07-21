@@ -48,3 +48,4 @@ Revert chatbot configuration to prior static data source; no data was permanentl
 | 2026-07-18 | API access expanded, deployed to production | AI Engineering |
 | 2026-07-20 | CR retroactively documented for governance record | AI/DS Lead |
 | 2026-07-21 | Security review scheduled to close governance gap | AI/DS Lead |
+| 2026-07-19 | integration review | AI Engineer |
